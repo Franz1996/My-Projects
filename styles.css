@@ -1,0 +1,65 @@
+p{
+	font-size: 18px;
+}
+
+
+
+h2{
+	font-style: italic;
+	font-size: 19px;
+	left: 5px;
+}
+
+
+
+li{
+	font-size: 20px;
+}
+
+
+
+#ContactAndInfo {
+	width: 50%;
+	height: 10%;
+	border-right: 1px;
+}
+
+
+#image { transform: rotate(350deg);
+    position: absolute;
+    right: 450px;
+    top: 20px;
+    border: 10px solid;
+}
+
+
+
+#sep1{
+	width: 60%;
+}
+
+
+hr.style {
+	border-top: 1px solid;
+	width-left: px
+	border-right: 1px solid;
+}
+
+
+.list_element{
+	top: 20%;
+	font-size: 23px;
+}
+
+
+.right{
+	margin-left: 300px; /*I was supposed to use float to get the descriptions for Education, 
+	kill and Experience on the right but I found it a bit challenging*/		
+}
+
+
+.left{
+	margin-left: 100px;
+	width: 10%
+	border-right: 1px solid black; /*This is supposed to create the vertical lines to separate Education, 
+	Skill and Experience from their descriptions on the right*/
