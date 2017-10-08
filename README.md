@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<!--Name: Franz Arnold, ID: 620091753, Course: INFO2180, Project 1: Resume Web Page-->
+<html>
+
+	<head>
+
+		<link rel="stylesheet" type="text/css" href="styles.css">
+		<title>Franz's Resume</title>
+
+	</head>
+	<div>
+		<h1>Franz F. Arnold</h1>
+		<br />
+
+		<div id = "sep1">
+		<hr>
+		</div>
+
+		<br />
+
+		<body>
+			<div id="image">
+				<img src="19692483_1633026773405997_2076566082_n.jpg" alt="Franz Arnold" style="width: 220px; height: 250px">
+			</div>
+
+			<p>Cell: 1-876-513-8266<br />Email: <a href="mailto:franzarnold51@hotmail.com">franzarnold51@hotmail.com</a></p>
+
+			<div id="ContactAndInfo">
+				<p>I am a young and enthused person who is always willing to learn something new each day. This is the mentality of a person who will always find ways to improve a project. I am also font of sciences and arts. Therefore, I have a good mixture of creative skills and logical thinking. The most successful individuals in the world are known to possess such a balance. Thus, I would be applicable to fit a position that is logic based or creativity based.</p>
+			</div>
+
+			
+			<div class = "left">
+				<h2>Education</h2>
+			</div>
+			<div class="right">
+				<ul">
+					<li class = "list_element">Kingston College (2008-2015)</li>
+						<ul>
+							<li>Studied the Sciences</li>
+							<li>Studied the Arts</li>
+						</ul>
+					<li class="list_element">University of the West Indies (2015-present)</li>
+						<ul>
+							<li>Major in Computer Science</li>
+							<li>Minor in French Language</li>
+						</ul>
+				</ul>
+
+			</div>
+
+			
+			<div class ="left">
+				<h2>Skills</h2>
+			</div>
+
+			<div class = "right">
+				<ul>
+					<li class="list_element">Communication</li>
+						<ul>
+							<li>Studied psychology thus having knowledge of human behavior</li>
+							<li>Hosted Seminars</li>
+						</ul>
+					<li class = "list_element">Logically Inclined</li>
+						<ul>
+							<li>Can complete logical tasks efficiently</li>
+							<li>Chess champio</li>
+						</ul>
+				</ul>
+			</div>
+
+			<div class = "left">
+				<h2>Experience</h2>
+			<div>
+
+			<div class = "right">
+				<ul>
+					<li class = "list_element">Done summer internships as an accountant</li>
+					<li class = "list_element">Organised events</li>
+					<li class = "list_element">Dance teacher</li>
+				</ul>
+			</div>
+
+		</body>
+		
+	</div>
+
+</html>
